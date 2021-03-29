@@ -6,18 +6,19 @@
     border: thin solid aqua;
 }
 header{
-    background-color: #e90080;
-    color: #a87affb2;
+    background-color: #e0288dad;
+    color: #230758b2;
     font-size: 24pt;
     padding: 20px;
 }
 body{
+    background-color: #3c87cead;
     font-family: 'inter', sans-serif;
-    color: #7239db;
+    color: #bb27b4;
     font-size: 16pt;
 }
 footer{
-   background-color: #f00a56;
+   background-color: #d42c64a1;
    color: rgb(12, 60, 192);
    font-size: 24pt;
 }

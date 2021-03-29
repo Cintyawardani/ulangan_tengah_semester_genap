@@ -3,7 +3,7 @@
     margin: 0;
 }
 .border-sample{
-    border: transparent;
+    border: thin solid pink;
 }
 header{
     background-color: #e90080;

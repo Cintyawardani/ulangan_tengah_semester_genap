@@ -6,21 +6,22 @@
     border: thin solid lavender;
 }
 header{
-    background-color: #e0288dad;
+    background-color: #6495ED;
     color: #230758b2;
     font-size: 24pt;
     padding: 20px;
 }
 body{
-    background-color: #F1948A;
+    background-color:#CCCCFF;
     font-family: 'inter', sans-serif;
     color: #2C3E50;
     font-size: 16pt;
 }
 footer{
-   background-color: #d42c64a1;
-   color: rgb(12, 60, 192);
+   background-color: #6495ED;
+   color:#230758b2 ;
    font-size: 24pt;
+   padding: 20px;
 }
 .container{
    padding: 20px;
@@ -38,9 +39,9 @@ p{
 section{
     margin-bottom: 20px;
     padding: 15px;
-    font-size: 16px;
+    font-size: 20px;
     width: 320px;
-    background-color: bisque;
+    background-color: #839192;
 }
 .section-container{
     display: flex;

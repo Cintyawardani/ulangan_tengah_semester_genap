@@ -6,7 +6,7 @@
     border: thin solid lavender;
 }
 header{
-    background-color: #6495ED;
+    background-color: #21618C ;
     color: #230758b2;
     font-size: 24pt;
     padding: 20px;
@@ -18,7 +18,7 @@ body{
     font-size: 16pt;
 }
 footer{
-   background-color: #6495ED;
+   background-color:  #21618C;
    color:#230758b2 ;
    font-size: 24pt;
    padding: 20px;
@@ -42,6 +42,7 @@ section{
     font-size: 20px;
     width: 320px;
     background-color:#839192;
+    color : #CACFD2 ;
 }
 .section-container{
     display: flex;
